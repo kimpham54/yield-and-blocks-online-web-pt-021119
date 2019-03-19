@@ -1,4 +1,6 @@
-def hello_t
+# lib/hello.rb
+
+def hello_t(array)
 
 end
 
